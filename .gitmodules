@@ -1,0 +1,15 @@
+[submodule "BootstrapTrader-config"]
+	path = BootstrapTrader-config
+	url = https://github.com/Architect-Engineering/BootstrapTrader-config.git
+[submodule "web-ui"]
+	path = web-ui
+	url = https://github.com/Architect-Engineering/web-ui.git
+[submodule "accounts-service"]
+	path = accounts-service
+	url = https://github.com/Architect-Engineering/accounts-service.git
+[submodule "portfolio-service"]
+	path = portfolio-service
+	url = https://github.com/Architect-Engineering/portfolio-service.git
+[submodule "quotes-service"]
+	path = quotes-service
+	url = https://github.com/Architect-Engineering/quotes-service.git
